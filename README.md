@@ -29,3 +29,6 @@ No installs required, click to launch:
 If you want to run this notebook locally later, install Python + Jupyter, then:
 ```bash
 pip install biopython py3Dmol
+```
+## Attendees:
+Peter the Anteater
