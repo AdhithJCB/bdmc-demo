@@ -32,5 +32,6 @@ pip install biopython py3Dmol
 ```
 ## Attendees:
 Peter the Anteater
+Valentino Arce-McQuade
 Mauro Green
 
