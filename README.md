@@ -34,4 +34,5 @@ pip install biopython py3Dmol
 Peter the Anteater
 Valentino Arce-McQuade
 Mauro Green
+Jiminy Biggins
 
