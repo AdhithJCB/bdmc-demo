@@ -1,4 +1,4 @@
-# BDMC Demo: GitHub + Biomolecular Visualization (Colab)
+# BDMC Demo: Biomolecular Visualization (Colab)
 
 This repo contains a short, beginner-friendly demo notebook for visualizing biomolecular structure data in Python.
 
