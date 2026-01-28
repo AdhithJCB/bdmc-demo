@@ -1,4 +1,4 @@
-# BDMC Demo: GitHub + Biomolecular Visualization (Colab)
+# BDMC Demo: Biomolecular Visualization (Colab)
 
 This repo contains a short, beginner-friendly demo notebook for visualizing biomolecular structure data in Python.
 
@@ -28,11 +28,6 @@ No installs required, click to launch:
 ## Optional: run locally
 If you want to run this notebook locally later, install Python + Jupyter, then:
 ```bash
-pip install biopython py3Dmol
+pip install py3Dmol MDAnalysis
 ```
-## Attendees:
-Peter the Anteater
-Valentino Arce-McQuade
-Mauro Green
-Jiminy Biggins
 
