@@ -28,11 +28,6 @@ No installs required, click to launch:
 ## Optional: run locally
 If you want to run this notebook locally later, install Python + Jupyter, then:
 ```bash
-pip install biopython py3Dmol
+pip install py3Dmol MDAnalysis
 ```
-## Attendees:
-Peter the Anteater
-Kian 
-Mauro Green
-BDMC Rep
 
